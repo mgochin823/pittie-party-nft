@@ -9,7 +9,7 @@
   "scripts": {
     "build": "yarn install && cd ./smart-contract && yarn install && yarn compile && cd ../minting-dapp && yarn build"
   },
-  "devDependencies": {
+  "dependencies": {
     "encore": "^0.0.30-beta"
   }
 }
