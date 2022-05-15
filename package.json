@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "cd ./smart-contract && yarn install && yarn compile && cd ../minting-dapp && yarn build"
+    "build": "yarn install && cd ./smart-contract && yarn install && yarn compile && cd ../minting-dapp && yarn build"
   },
   "devDependencies": {
     "encore": "^0.0.30-beta"
