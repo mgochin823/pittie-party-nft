@@ -10,6 +10,6 @@ echo Starting pittie-party minting-dapp build...
 cd ../minting-dapp
 pwd
 yarn install
-yarn webpack
+yarn build
 echo pittie-party minting-dapp build successful!!!
 
