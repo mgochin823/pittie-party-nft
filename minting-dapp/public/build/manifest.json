@@ -1,0 +1,10 @@
+{
+  "build/main.css": "http://localhost:8080/build/main.css",
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/images/preview.gif": "http://localhost:8080/build/images/preview.gif",
+  "build/images/pp-minting-bg_min.gif": "http://localhost:8080/build/images/pp-minting-bg_min.gif",
+  "build/images/pp-minting-bg.gif": "http://localhost:8080/build/images/pp-minting-bg.gif",
+  "build/images/preview.png": "http://localhost:8080/build/images/preview.png",
+  "build/images/logo.png": "http://localhost:8080/build/images/logo.png",
+  "build/images/fav.png": "http://localhost:8080/build/images/fav.png"
+}
