@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "./cf_build"
+    "build": "cd ./smart-contract && yarn install && yarn compile && cd ../minting-dapp && yarn build"
   }
 }
