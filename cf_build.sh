@@ -3,6 +3,6 @@ yarn install
 yarn compile
 
 cd ../minting-dapp
-yarn build
+yarn webpack
 
 
